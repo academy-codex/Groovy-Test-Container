@@ -5,7 +5,7 @@ image::https://img.shields.io/travis/spockframework/spock-example/master.svg?lab
 image::https://badges.gitter.im/spockframework/spock.svg[link=https://gitter.im/spockframework/spock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge,float=left]
 --
 
-== Spock Framework Example Project
+== Groovy Test Container Framework
 
 
 The purpose of this project is to help you get started with Spock. The project includes several example specifications and build scripts for Ant, Gradle, and Maven. It also makes it easy to create an Eclipse or IDEA project, allowing you to run the example specs from within your IDE.
@@ -58,27 +58,3 @@ Type:
     ./gradlew collectJars
 
 The Jars will be copied to `build/output/lib`. The comments in `build.gradle` explain what they are needed for.
-
-=== Further Resources
-
-
-* http://spockframework.org[Spock homepage]
-* https://meetspock.appspot.com[Spock web console]
-* http://docs.spockframework.org/[Main documentation]
-* http://forum.spockframework.org[User discussion group]
-* http://dev.forum.spockframework.org[Dev discussion group]
-* http://issues.spockframework.org[Issue tracker]
-* http://builds.spockframework.org[Build server]
-* http://blog.spockframework.org[Spock blog]
-* https://twitter.com/spockframework[Spock on Twitter]
-* http://ant.apache.org[Ant homepage]
-* http://www.gradle.org[Gradle homepage]
-* http://groovy-lang.org/[Groovy homepage]
-* http://maven.apache.org[Maven homepage]
-
-If you have any comments or questions, please direct them to the Spock discussion group. All feedback is appreciated!
-
-Happy spec'ing!
-
-The Spock Framework Team
-
