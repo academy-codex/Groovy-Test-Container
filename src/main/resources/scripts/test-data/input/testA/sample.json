@@ -1,0 +1,8 @@
+{
+  "inputType":"json",
+  "inputKey":"abc",
+  "inputValue":{
+    "name":"Raghav Sharma",
+    "age":28
+  }
+}
